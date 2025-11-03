@@ -15,4 +15,4 @@ jobs:
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
-          git push "https://<anjalipanchal0219-lgtm>:$HF_TOKEN@huggingface.co/spaces/<anjalipanchal0219-lgtm>/<ML-Project>" main
+          git push "https://<ap1902>:$HF_TOKEN@huggingface.co/spaces/<ap1902>/<ML-Project>" main
